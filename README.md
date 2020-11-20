@@ -1,6 +1,8 @@
 <h1 align="center">Correios Tracking</h1>
 
+<p align="center">
 <img src="https://img.shields.io/static/v1?label=python&message=3.8.0&color=yellow&style=for-the-badge&logo=PYTHON"/> <img src="https://img.shields.io/static/v1?label=Beautiful%20Soup&message=4.9.1&color=blue&style=for-the-badge&logo=PYTHON"/>
+</p>
 
 ### Descrição do projeto
 <p align="justify"> Programa desenvolvido em Python que utiliza a library Beautiful Soup para web scraping e que tem como objetivo fornecer o histórico de rastreamento de uma encomenda dos Correios, informando o código de rastreamento do produto.</p>
