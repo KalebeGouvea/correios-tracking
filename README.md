@@ -6,6 +6,7 @@
 
 ### Descrição do projeto
 <p align="justify"> Programa desenvolvido em Python que utiliza a library Beautiful Soup para web scraping e que tem como objetivo fornecer o histórico de rastreamento de uma encomenda dos Correios, informando o código de rastreamento do produto.</p>
+
 > Status do projeto: Concluido :heavy_check_mark:
 
 ### Funcionalidades
