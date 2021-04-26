@@ -18,6 +18,10 @@
 
 
 ### Como rodar o programa
+Primeiramente, instale o Beutifulsoup conforme a documentação abaixo:
+```
+https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
+```
 No terminal, clone o projeto:
 ```
 git clone https://github.com/KalebeGouvea/correios-tracking
