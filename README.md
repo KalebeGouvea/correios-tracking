@@ -18,7 +18,7 @@
 
 
 ### Como rodar o programa
-Primeiramente, instale o Beutifulsoup conforme a documentação abaixo:
+Primeiramente, instale o Beautiful Soup conforme a documentação abaixo:
 ```
 https://www.crummy.com/software/BeautifulSoup/bs4/doc/#installing-beautiful-soup
 ```
